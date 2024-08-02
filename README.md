@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BOBDAO - https://redscale-web.vercel.app/<br>👯 I’m looking to collaborate on any Web3 related projects<br>🤝 I’m looking for help with ReactJS , CSS, Java Script<br>🌱 I’m currently learning NextJS<br>
+🔭 I’m currently working on REDSCALE - https://redscale-web.vercel.app/<br>👯 I’m looking to collaborate on any Web3 related projects<br>🤝 I’m looking for help with ReactJS , CSS, Java Script<br>🌱 I’m currently learning NextJS<br>
 
 
 ## 🌐 Socials:
