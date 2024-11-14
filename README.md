@@ -4,7 +4,7 @@ Here’s a professional rewrite of the GitHub README file based on the informati
 
 # Rahul Roy
 
-Aspiring Web and Blockchain Developer | Electronics and Telecommunication Engineering, RVCE
+Aspiring Web and Blockchain Developer | Electronics and Communication Engineering, RVCE
 
 🔗 [Portfolio](https://websiteport-xi.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rahulrroyycontact/) • [GitHub](https://github.com/rahulRoy123-rvce) • [LeetCode](https://leetcode.com/u/royrahul_123/)
 
