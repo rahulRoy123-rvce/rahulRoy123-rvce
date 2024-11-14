@@ -1,42 +1,50 @@
-Here’s a professional rewrite of the GitHub README file based on the information from your resume:
+Here’s a professional rewrite of your GitHub README file based on the latest resume details:
 
 ---
 
 # Rahul Roy
 
-Aspiring Web and Blockchain Developer | Electronics and Communication Engineering, RVCE
+Blockchain & Full-Stack Developer | Electronics and Telecommunication Engineering, RVCE
 
-🔗 [Portfolio](https://websiteport-xi.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rahulrroyycontact/) • [GitHub](https://github.com/rahulRoy123-rvce) • [LeetCode](https://leetcode.com/u/royrahul_123/)
+📍 Bengaluru, India | 🌐 [Portfolio](https://websiteport-xi.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rahulrroyycontact/) • [GitHub](https://github.com/rahulRoy123-rvce) • [LeetCode](https://leetcode.com/u/royrahul_123/)
 
 ---
 
-## 👋 About Me
-I'm a dedicated developer currently expanding my skills in Web3 and blockchain solutions. With a strong foundation in full-stack web development and a passion for decentralized technologies, I’m eager to bring impactful, secure applications to life.
+## About Me
+I am a driven developer with a focus on blockchain technology and full-stack development. With hands-on experience in creating decentralized applications and proficiency in developing web and mobile applications, I am passionate about leveraging technology to drive innovation and efficiency in businesses.
 
-### Key Highlights:
-- **Co-founder at BOBDAO**: Organized a large-scale Web3 hackathon, managing budgets, sponsorships, and engaging over 200 participants.
-- **Developer at REDSCALE**: Built web and mobile applications for small businesses, resulting in significant online revenue growth.
-- **Research Intern at Nokia**: Applied ML techniques to predict network throughput, integrating models like LSTM and GNN.
+### Professional Experience:
+- **Developer at Redscale**  
+  Led the development of web and mobile applications, achieving a 200% revenue increase for small businesses through effective digital solutions.
 
-## 🚀 Technical Skills
-- **Languages & Frameworks**: C++, Python, JavaScript (ReactJS, NextJS, Express), Solidity
-- **Blockchain**: Hyperledger Besu, Polygon
-- **Databases**: MongoDB, MySQL
-- **Tools & Libraries**: Tailwind CSS, Pandas, NumPy, Jupyter, GitHub
+- **Blockchain Research and Project Intern at SCII**  
+  Developed a private blockchain network using Hyperledger Besu, enhancing security protocols and creating seamless front-end interfaces.
 
-## 🛠️ Projects
+- **Co-founder at BOBDAO**  
+  Organized a major Web3 hackathon, securing sponsorships, and attracting over 200 participants, showcasing strong marketing and financial management skills.
+
+## Technical Skills
+- **Languages & Frameworks**: Solidity, SQL, Python, JavaScript, C++, C, ReactJS, React Native, NextJS, Tailwind CSS, ExpressJS, MongoDB
+- **Blockchain Tools**: Hyperledger Besu, Hardhat, Truffle, Foundry, Ether.js, Web3.js
+- **Other Tools**: GitHub, Docker, VS Code, Linux
+
+## Projects
 ### [NFT Secure](https://github.com/rahulRoy123-rvce/NFT-Secure)
-- Developed a decentralized storage solution using Hyperledger Besu, allowing for secure document authentication and eliminating transaction fees.
+- Designed a private blockchain for secure document authentication, eliminating gas fees and enhancing transaction efficiency using Hyperledger Besu.
 
-### [Indian Startup Funding Analysis](https://github.com/rahulRoy123-rvce/Startup-Funding-Analysis)
-- Conducted a comprehensive analysis of Indian startup funding trends, leveraging Python data libraries to visualize investment patterns.
+### [Real Estate NFT DApp]()
+- Developed smart contracts and front-end integration for a decentralized real estate platform, enabling secure property tokenization on Ethereum.
 
-## 📝 Publications
-- **Tokenizing Real Estate in India Using Blockchain** *(Work in progress)*: Proposes a scalable, secure platform for real estate tokenization on Polygon.
-- **Decentralized Document Storage with NFT Authentication** *(Work in progress)*: Explores blockchain solutions for secure document storage.
+### [Decentralized Kickstarter](https://github.com/AkshatGada/kickstarter)
+- Built smart contracts and user interfaces to support decentralized project funding on Ethereum testnets.
 
-## 🌐 Let's Connect
-If you’re interested in collaborating on Web3 or blockchain projects, feel free to reach out. I'm always open to connecting with like-minded professionals passionate about innovative tech solutions.
+## Publications
+- **Tokenizing Real Estate in India Using Blockchain** *(Work in progress)*: A proposal for a scalable real estate tokenization platform on Polygon, addressing adoption and regulatory challenges.
+- **Decentralized Document Storage with NFT Authentication** *(Work in progress)*: Examining blockchain-based secure document storage solutions.
+
+## Achievements
+- Selected for the 2023 Web 3.0 Conference in Goa, where I connected with blockchain leaders and gained insights into community building and advanced blockchain technologies.
 
 ---
 
+Let’s connect if you’re interested in Web3 or blockchain collaborations!
