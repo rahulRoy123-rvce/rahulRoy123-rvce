@@ -1,6 +1,3 @@
-Here’s a professional rewrite of your GitHub README file based on the latest resume details:
-
----
 
 # Rahul Roy
 
