@@ -1,7 +1,7 @@
 
 # Rahul Roy
 
-Blockchain & Full-Stack Developer | Electronics and Telecommunication Engineering, RVCE
+Blockchain & Full-Stack Developer | Electronics and Communication Engineering, RVCE
 
 📍 Bengaluru, India | 🌐 [Portfolio](https://websiteport-xi.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rahulrroyycontact/) • [GitHub](https://github.com/rahulRoy123-rvce) • [LeetCode](https://leetcode.com/u/royrahul_123/)
 
